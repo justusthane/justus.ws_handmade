@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/justusthane
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://phpstack-232652-1148735.cloudwaysapps.com
+  * I am justusthane (https://keybase.io/justusthane) on keybase.
+  * I have a public key with fingerprint 88F6 7936 FBBF 3C9B D5E1  26D3 58BE E7E6 E2EF 2E59
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101af327a5c8fdee39663930c0e1d9a1b8e88ca385014acc436672d3fd996e0f8ad0a",
+            "fingerprint": "88f67936fbbf3c9bd5e126d358bee7e6e2ef2e59",
+            "host": "keybase.io",
+            "key_id": "58bee7e6e2ef2e59",
+            "kid": "0101af327a5c8fdee39663930c0e1d9a1b8e88ca385014acc436672d3fd996e0f8ad0a",
+            "uid": "93b617d59360b34521bfea85420f4419",
+            "username": "justusthane"
+        },
+        "service": {
+            "hostname": "phpstack-232652-1148735.cloudwaysapps.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454687504,
+    "expire_in": 157680000,
+    "prev": "2cc750904cb50b3d2cbc1aab035f6c06226a0aa6eaa1078923236929b36cd648",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJfSBRBHD7/pNelZSRIFD2sWgqH7O7szu0eJUkvSj4YohQJ5+zs7Llp
+t+ftnpeKJVhZEJn5N0shUlKEXpKC0MxIKIMMwj8gBKWWiUWFSFYPzUo9BD02DAzz
+m+/7ft/3Y54kxjhcUYPR08dKu43EqOdj7WFH8dB4Ui2jGGo1461lysnGQSpUYlq+
+cl1lvAzLsRzSAO9BIpY0lRAgQwhkwGKWcKqMOEUikoQRkESWExDGAoDQw6tAU2UZ
+ElaTkMoixs1oesBPQsGQHrCorCRp0CMDqCmKBrCsqCLheKgCUVII8RBIeKLxRJQp
+scwwbQY1pyCTZOkGrdGLb8PeP/D/2Xd4Q04GCuQ8qkgtswoQRJ5TNIIkUeBZTRA4
+u2/YJKEAOkko+kTYtOguQwHC1LkZ+lClY2LP1g7zFygrYlJuMGRYBjYqaLnMsoJe
+m2VVB21YhCi+3wI+RQ+odIyUUEVCpm4EGC9HkdjSbUVOEAUoeURWcDPkVFAPEZ9u
+I0QPlFi67DakikryGFOUzApYEWkalccK5hBSWCBqELOQ5yFiEYIEIY71SDIPeABl
+XlYAxCoUJMaOVBkwGC+gNpGfSpq6P4CscIjmffyoJNYR5XLEbYq2v5fDtTnpz6dL
+y3c6GjK9YOb41JBvvEn7Prtr7+DBqYHYM42Xmy8lrJvNXH1OzPaZW8mRAlfbfKz1
+I9esH4vL71npHrnZkD13patrdHXr68/a/sx7K4VH038uFLxIaIpzZtQN9y93lk03
+RQZutGQXp154MIe/dTieJV5LqVna9/5t/KJ/YdZtDJJ3RXXrF4e2tPfnTV3dEesa
+SZ8/VvlllYy1tC+tZect78lQeyPnd6Ye6Ob8USmFrQsvJw73tJ4bva6r1UfEtbqw
+l7Tdb6xulU4HmxMr5MhD2fnK6UyuKek7m7M43Lk4+TS+pGviTfKcPzcN5nz9NHz3
+Y9HyZF9pb8eHAced3cFtt61DvwCkbkDb
+=bI+8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/justusthane
+
+==================================================================
