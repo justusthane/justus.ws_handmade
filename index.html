@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+
+
+    <body>
+        <div id="header">
+            <div class="logo"><a href="index.html">justus.ws</a></div> <div class="tagline">a minor allergic reaction<br>to social media</div>
+        </div>
+        <div id="home">
+            <dl>
+                <dt><a href="craft">sewing/craft</a></dt>
+                    <dd>&nbsp;projects</dd>
+                    <dt><a href="tech">tech</a></dt>
+                    <dd>&nbsp;stuff</dd>
+                <dt><a href="writings">writings</a></dt>
+                    <dd>&nbsp;&amp;&nbsp;musings</dd>
+                <dt><a href="blog">blog</a></dt>
+                    <dd>/thoughts</dd>
+                <dt><a href="https://photos.justus.ws">photos</a></dt>
+                    <dd>&nbsp;&gt;  smugmug</dd>
+                <dt><a href="why.html">why</a></dt>
+                    <dd>&nbsp;does this website exist?</dd>
+                <dt><a href="who.html">who</a></dt>
+                    <dd>&nbsp;are you?</dd>
+                <dt><a href="links.html">links</a></dt>
+                    <dd>: other cool things?</dd>
+                <dt><a href="mailto:jg@justus.ws">e-mail</a></dt>
+                    <dd>&nbsp;jg@justus.ws</dd>
+            </dl>
+        </div>
+        <script src="jquery-3.4.1.min.js">
+        </script>
+
+    <script>
+            console.log("Loaded");
+            $( "#home dl dt a" ).hover(
+              function() {
+                $( this ).parent().next().css("visibility","visible");
+              }, function() {
+                $( this ).parent().next().css("visibility","hidden");
+              }
+            );
+    </script>
+    </body>
+
+
+</html>
